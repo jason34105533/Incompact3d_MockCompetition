@@ -92,11 +92,11 @@ subroutine parameter(input_i3d)
 
   if (nrank==0) then
      write(*,*) '==========================================================='
-     write(*,*) '======================Xcompact3D==========================='
-     write(*,*) '===Copyright (c) 2018 Eric Lamballais and Sylvain Laizet==='
+     write(*,*) '======================Xcompact3D_Mod==========================='
+     write(*,*) '===Copyright (c) 2025 Eric Lamballais and Sylvain Laizet==='
      write(*,*) '===Modified by Felipe Schuch and Ricardo Frantz============'
      write(*,*) '===Modified by Paul Bartholomew, Georgios Deskos and======='
-     write(*,*) '===Sylvain Laizet -- 2018- ================================'
+     write(*,*) '===Jason Lin -- 2025- ================================'
      write(*,*) '==========================================================='
 #if defined(VERSION)
      write(*,*)'Git version        : ', VERSION
