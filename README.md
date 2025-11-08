@@ -1,3 +1,7 @@
+# Attribution Notice
+This repository is a personal copy of https://github.com/xcompact3d/Incompact3d.
+All credit goes to the original authors.
+
 
 [![DOI](https://zenodo.org/badge/127266756.svg)](https://zenodo.org/badge/latestdoi/127266756)
 
